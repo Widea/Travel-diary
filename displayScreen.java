@@ -23,7 +23,7 @@ public class displayScreen extends JFrame implements ActionListener {
    private JPanel mainPanel2 = new JPanel();
    private JPanel mainPanel3 = new JPanel();
    private JPanel mainPanel4 = new JPanel();
-   private JPanel mainPanel5 = new JPanel();
+   private JPanel mainPanel5 = new JPanel(); 
    private JPanel mainPanel6 = new JPanel();
    private JPanel mainPanel7 = new JPanel();
    private JPanel mainPanel8 = new JPanel();
