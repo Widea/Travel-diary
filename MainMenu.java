@@ -1,4 +1,3 @@
-
 package mainframe;
 
    //Required packages
@@ -19,7 +18,7 @@ public class MainMenu extends JFrame implements ActionListener
    private JPanel mainPanel = new JPanel();//The main panel
 
    public static String uname;
-   private JButton submit;
+   private JButton submit; 
    private JButton mainMenu;
    private JLabel name= new JLabel("ENTER THE USERNAME:");
    private JLabel pass= new JLabel("ENTER THE PASSWORD:");
